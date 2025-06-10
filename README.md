@@ -64,19 +64,23 @@
   </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-  
+  <img width="40" src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img width="40" src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img width="40" src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img width="40" src="https://skillicons.dev/icons?i=html" title="HTML" />
+  <img width="40" src="https://skillicons.dev/icons?i=css" title="CSS" />
+  <img width="40" src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+  <img width="40" src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
+  <img width="40" src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img width="40" src="https://img.shields.io/badge/Matlab-darkblue?style=flat&logo=mathworks&logoColor=white" title="Matlab" />
+  <img width="40" src="https://skillicons.dev/icons?i=figma" title="Figma" />
+  <img width="40" src="https://skillicons.dev/icons?i=mysql" title="SQL" />
+  <img width="40" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black" title="Power BI" />
+  <img width="40" src="https://skillicons.dev/icons?i=linux" title="Linux" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" />
 </div>
+
 
 <br>
 
