@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      システムアナリスト | Data Analyst & Developer
+      系統分析師 | Data Analyst & Developer
     </b>
       <br>
       Hi there! I'm Miguel Pereira
