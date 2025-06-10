@@ -7,8 +7,6 @@
     </b>
     <br>
     Hi there! I'm Miguel Pereira Dantas de Oliveira
-    <br>
-    Inspired by Solo Leveling — leveling up every day in tech and life.
   </samp>
 </div>
 
